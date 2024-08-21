@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#191B1F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="prim">#03A9F4</color>
+    <color name="prim2">#321E1E</color>
+    <color name="prim3">#4E3636</color>
+    <color name="prim4">#9C27B0</color>
+</resources>
